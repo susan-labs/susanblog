@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag2 on Susan&#39;s Blog</title>
+    <link>/tags/tag2/</link>
+    <description>Recent content in Tag2 on Susan&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 06 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blogtitle</title>
+      <link>/posts/another-test-file/</link>
+      <pubDate>Wed, 06 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>/posts/another-test-file/</guid>
+      <description>&lt;p&gt;Just trying to do a test with Template&#xA;!&lt;img src=&#34;/images/Pasted%20image%2020250705144124.png&#34; alt=&#34;Image Description&#34;&gt;!&lt;img src=&#34;/images/Pasted%20image%2020250705144349.png&#34; alt=&#34;Image Description&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
