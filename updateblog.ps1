@@ -5,7 +5,7 @@ $sourcePath = "C:\Obsidian\BlogPost\BlogPost"
 $destinationPath = "C:\Users\susan\Documents\susanblog\content\posts"
 
 # Set Github repo 
-$myrepo = "git@github.com:susan-khanal/susanblog.git"
+$myrepo = "git@github.com:susan-labs/susanblog.git"
 
 # Set error handling
 $ErrorActionPreference = "Stop"
