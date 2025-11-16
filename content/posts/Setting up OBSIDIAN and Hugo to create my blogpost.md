@@ -1,5 +1,5 @@
 ---
-title: blogtitle
+title: "Setting up OBSIDIAN and Hugo to create my blogpost"
 date: 2025-07-05
 draft: false
 tags:

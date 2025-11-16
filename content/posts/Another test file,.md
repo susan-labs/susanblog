@@ -1,5 +1,5 @@
 ---
-title: blogtitle
+title: "Another test file"
 date: 2024-11-06
 draft: false
 tags:
